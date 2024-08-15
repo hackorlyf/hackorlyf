@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/mukund-choudhary-smvdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mukund-choudhary-smvdu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mukund-choudhary-smvdu/?profileId=ACoAAD3GVfYBp0gJXXwgxuGAm1-yiibFxAa1ASE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mukund-choudhary-smvdu" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@mukundchoudhary_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mukundchoudhary_" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/hackorlyf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hackorlyf/" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/hackorlyf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/hackorlyf/" height="30" width="40" /></a>
