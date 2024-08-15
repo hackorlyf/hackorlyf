@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hackorlyf.github.io/MukundChoudhary.github.io/](https://hackorlyf.github.io/MukundChoudhary.github.io/)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/mukund-choudhary-smvdu](www.linkedin.com/in/mukund-choudhary-smvdu)
+- 📝 I regularly write articles on [www.linkedin.com/in/mukund-choudhary-smvdu](https://www.linkedin.com/in/mukund-choudhary-smvdu/?profileId=ACoAAD3GVfYBp0gJXXwgxuGAm1-yiibFxAa1ASE)
 
 - 💬 Ask me about **Unity Engine**
 
